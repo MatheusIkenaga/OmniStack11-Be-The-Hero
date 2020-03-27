@@ -87,7 +87,7 @@ export default function Register(){
                         />
                     </div>
 
-                    <button className="button" type="submit">Cadastar</button>
+                    <button className="button" type="submit">Cadastrar</button>
                 </form>
             </div>
         </div>

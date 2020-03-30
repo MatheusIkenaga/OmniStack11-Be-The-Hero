@@ -1,5 +1,5 @@
 # OmniStack11-Be-The-Hero
-Project "Be The Hero" from RocketSeat in the Eleventh edition of "Semana OmniStack"
+Project "Be The Hero" by RocketSeat in the Eleventh edition of "Semana OmniStack"
 
 This app was made for ONGs share your cases with values and a "Hero" find this cases and pay for the cause
 
